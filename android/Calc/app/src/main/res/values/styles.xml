@@ -1,0 +1,17 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <item name="colorAccent">@color/accent</item>
+    </style>
+
+    <!-- Button style for the main calculator -->
+    <style name="ButtonCalculatorAction" >
+        <item name="android:textSize">@dimen/font_20sp</item>
+        <item name="android:minHeight">@dimen/min_touch_dimen</item>
+        <item name="android:minWidth">@dimen/min_touch_dimen</item>
+    </style>
+
+</resources>

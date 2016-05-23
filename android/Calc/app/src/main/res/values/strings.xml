@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Calc</string>
+    <string name="value_a">Value A</string>
+    <string name="value_b">Value B</string>
+    <string name="action_about">About</string>
+    <string name="activity_about">About</string>
+    <string name="activity_calc">Calculator</string>
+    <string name="desc_about">Made by PaperKite for the 2016 Summer of Tech Mobile 101 bootcamp</string>
+    <string name="title_about">This App</string>
+
+</resources>
